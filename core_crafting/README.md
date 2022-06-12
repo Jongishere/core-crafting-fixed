@@ -1,5 +1,5 @@
 
-worked on latest qb-core version 
+works on latest qb-core version 
 
 
 --------------------------------------------------------
